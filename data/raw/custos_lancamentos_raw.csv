@@ -1,0 +1,801 @@
+id_lancamento,data,centro_custo,tipo_custo,categoria,valor,fornecedor,ordem_producao
+1,2024-02-01,CC500,Direto,materia prima,14739.93,Fornecedor A,OP5288
+2,2024-05-17,CC200,Indireto,energia,19927.67,Fornecedor A,
+3,2023-03-31,CC300,Indireto,energia,17983.71,Energia SA,
+4,2024-12-18,CC200,Indireto,mao de obra,17042.1,Fornecedor C,
+5,2024-05-20,CC100,Direto,energia,15862.11,Fornecedor C,OP7044
+6,2024-02-12,CC400,Direto,frete,17696.5,Serviços LTDA,OP7730
+7,2024-04-05,CC400,Direto,energia,19450.36,Energia SA,OP9476
+8,2023-05-13,CC400,Direto,frete,12831.9,Serviços LTDA,
+9,2024-12-27,CC200,Direto,mao de obra,3376.68,Fornecedor C,OP9501
+10,2023-10-09,CC200,Direto,mao de obra,4006.41,Energia SA,
+11,2024-11-05,CC500,Direto,frete,18837.98,Energia SA,
+12,2024-08-13,CC300,Direto,materia prima,1004.69,Energia SA,OP4453
+13,2024-10-19,CC300,Direto,manutencao,17791.04,FORN-XYZ,OP5012
+14,2024-03-26,CC400,Indireto,manutencao,1552.16,FORN-XYZ,
+15,2023-11-23,CC300,Indireto,frete,2959.01,FORN-XYZ,OP3142
+16,2024-04-05,CC200,Direto,mao de obra,4910.58,Fornecedor B,
+17,2023-06-13,CC300,Indireto,manutencao,17296.86,Serviços LTDA,
+18,2023-11-12,CC400,Direto,manutencao,19919.79,Fornecedor A,OP2475
+19,2023-02-21,CC300,Indireto,energia,4381.37,FORN-XYZ,OP8710
+20,2024-01-10,CC400,Direto,materia prima,8675.46,Fornecedor C,OP1741
+21,2023-10-23,CC100,Direto,frete,11280.16,FORN-XYZ,OP9261
+22,2023-04-10,CC400,Indireto,frete,13639.93,Fornecedor C,OP6555
+23,2023-02-11,CC100,Direto,energia,12089.01,Fornecedor A,OP3245
+24,2024-06-11,,Indireto,frete,9194.07,Fornecedor C,
+25,2023-12-11,CC500,Indireto,frete,14812.46,Serviços LTDA,OP9721
+26,2024-11-20,CC100,Indireto,manutencao,16333.4,FORN-XYZ,
+27,2024-08-15,CC500,Indireto,mao de obra,19344.71,Fornecedor B,OP1841
+28,2024-01-25,CC200,Direto,frete,12617.6,Energia SA,
+29,2023-06-05,CC400,Direto,energia,476.85,Energia SA,OP4340
+30,2024-06-15,CC200,Indireto,servicos terceiros,14575.3,Serviços LTDA,OP6325
+31,2024-06-29,,Indireto,mao de obra,19138.04,Serviços LTDA,OP6804
+32,2023-11-02,CC200,Indireto,energia,19151.01,Fornecedor C,
+33,2023-10-08,CC300,Indireto,mao de obra,9648.09,Fornecedor A,OP9899
+34,2023-10-25,CC100,Indireto,mao de obra,19096.72,Fornecedor C,OP2294
+35,2023-07-26,CC500,Indireto,servicos terceiros,5203.24,Fornecedor C,
+36,2023-02-21,CC500,Direto,frete,14843.73,Fornecedor B,
+37,2024-11-28,CC200,Direto,manutencao,6672.84,Fornecedor A,OP3587
+38,2023-10-22,CC300,Indireto,manutencao,13045.72,Fornecedor C,
+39,2023-02-08,CC200,Direto,frete,14799.86,FORN-XYZ,
+40,2023-10-24,,Indireto,manutencao,3807.6,Fornecedor A,
+41,2024-06-20,CC400,Indireto,mao de obra,9141.55,Fornecedor B,OP9261
+42,2024-04-14,CC300,Indireto,energia,16195.4,Energia SA,
+43,2023-06-29,CC500,Indireto,mao de obra,11398.85,Energia SA,OP7643
+44,2023-05-24,CC400,Indireto,materia prima,8076.58,Fornecedor C,
+45,2023-12-04,CC300,Indireto,manutencao,4786.87,Serviços LTDA,OP1187
+46,2024-04-21,CC300,Indireto,servicos terceiros,4802.42,Fornecedor B,OP7642
+47,2024-09-21,CC200,Direto,servicos terceiros,18330.99,Fornecedor B,OP3188
+48,2024-03-01,CC500,Direto,manutencao,14979.92,FORN-XYZ,
+49,2023-03-25,CC500,Direto,servicos terceiros,15119.32,FORN-XYZ,OP9653
+50,2024-06-01,CC200,Direto,frete,2332.95,Serviços LTDA,
+51,2024-11-27,CC200,Direto,mao de obra,17104.27,Energia SA,
+52,2024-04-12,CC500,Indireto,materia prima,9123.3,Fornecedor A,OP8575
+53,2023-08-12,CC500,Direto,manutencao,-5163.7,Fornecedor A,OP1742
+54,2023-03-12,CC400,Indireto,servicos terceiros,1368.82,Fornecedor A,OP5703
+55,2024-10-23,CC400,Direto,energia,15339.97,Fornecedor C,OP7266
+56,2024-07-06,CC200,Indireto,manutencao,1696.97,Energia SA,
+57,2023-08-17,CC100,Direto,frete,7921.87,Fornecedor A,OP5888
+58,2024-04-16,CC300,Indireto,frete,7647.6,Fornecedor B,
+59,2023-01-17,CC200,Direto,materia prima,16208.62,Fornecedor B,
+60,2023-02-19,CC200,Direto,manutencao,11995.92,Energia SA,OP1724
+61,2023-02-27,CC200,Indireto,energia,10841.22,Serviços LTDA,
+62,2023-11-25,CC200,Indireto,frete,11998.56,Fornecedor C,
+63,2024-08-28,CC200,Indireto,mao de obra,5575.56,Energia SA,OP7999
+64,2024-06-21,,Direto,mao de obra,18837.57,Energia SA,OP7821
+65,2024-04-29,CC200,Direto,mao de obra,7591.56,Fornecedor B,
+66,2024-07-24,,Indireto,materia prima,11291.48,Fornecedor B,
+67,2024-04-05,,Indireto,energia,6672.23,Fornecedor A,
+68,2023-02-10,,Direto,mao de obra,7605.64,Fornecedor B,OP4555
+69,2023-08-05,CC200,Direto,mao de obra,6133.44,Energia SA,OP2922
+70,2023-09-03,CC500,Direto,servicos terceiros,12127.59,Fornecedor C,OP5637
+71,2024-01-04,CC500,Indireto,frete,13009.55,FORN-XYZ,
+72,2024-02-28,CC100,Indireto,mao de obra,18295.18,Serviços LTDA,
+73,2024-03-03,CC300,Direto,mao de obra,11110.9,Fornecedor B,OP4214
+74,2024-07-17,CC300,Direto,manutencao,11438.81,Fornecedor C,OP9005
+75,2023-05-24,CC500,Indireto,energia,14682.17,FORN-XYZ,
+76,2023-01-07,CC400,Direto,materia prima,18909.24,Fornecedor B,
+77,2023-03-03,CC500,Direto,materia prima,4452.52,Energia SA,OP8916
+78,2023-01-18,CC500,Direto,materia prima,10691.03,Energia SA,OP5501
+79,2023-07-03,,Direto,frete,16281.83,Fornecedor A,
+80,2023-12-29,CC300,Direto,energia,12433.64,FORN-XYZ,OP2294
+81,2023-08-20,CC300,Indireto,manutencao,11343.54,Energia SA,
+82,2023-02-27,CC100,Direto,manutencao,7647.35,Energia SA,
+83,2023-04-08,CC500,Indireto,manutencao,12933.65,Fornecedor A,
+84,2023-10-15,CC500,Indireto,mao de obra,1026.58,Serviços LTDA,
+85,2024-12-30,CC400,Indireto,materia prima,19233.24,Fornecedor A,
+86,2024-07-07,CC300,Direto,frete,16709.55,FORN-XYZ,
+87,2023-03-19,CC300,Indireto,materia prima,2043.95,Serviços LTDA,OP7499
+88,2024-05-17,CC200,Direto,servicos terceiros,5539.21,Fornecedor C,OP7150
+89,2024-09-25,CC300,Direto,servicos terceiros,11758.91,Fornecedor B,
+90,2023-06-07,CC400,Indireto,energia,7662.0,Fornecedor C,
+91,2023-10-04,CC100,Direto,materia prima,18864.91,Fornecedor B,
+92,2023-04-16,CC100,Indireto,manutencao,11184.0,Fornecedor A,
+93,2023-03-28,CC500,Indireto,manutencao,345.58,Fornecedor B,
+94,2024-05-19,CC200,Indireto,energia,2862.92,Fornecedor A,OP3739
+95,2024-01-05,CC300,Indireto,manutencao,6065.07,Fornecedor B,
+96,2024-02-10,CC300,Indireto,materia prima,-2796.24,Serviços LTDA,OP7224
+97,2024-10-28,CC500,Indireto,mao de obra,8669.26,Fornecedor B,OP5922
+98,2023-11-23,CC300,Direto,manutencao,6352.25,Energia SA,
+99,2024-01-09,CC100,Indireto,manutencao,5677.97,Serviços LTDA,
+100,2024-03-24,CC300,Direto,servicos terceiros,9286.28,Energia SA,OP2133
+101,2024-11-05,CC200,Indireto,energia,12703.39,Energia SA,OP7932
+102,2024-02-15,CC500,Direto,manutencao,19814.94,Serviços LTDA,
+103,2024-10-15,CC100,Indireto,servicos terceiros,17920.48,Fornecedor A,OP5067
+104,2024-10-22,CC400,Direto,servicos terceiros,12292.29,Fornecedor C,
+105,2024-06-15,CC500,Direto,materia prima,5248.89,Serviços LTDA,OP4621
+106,2024-12-08,CC500,Indireto,manutencao,9314.96,Fornecedor B,
+107,2023-03-29,CC100,Indireto,materia prima,5979.1,Energia SA,OP3321
+108,2024-05-09,CC300,Indireto,mao de obra,9161.12,FORN-XYZ,OP2599
+109,2024-12-28,CC100,Indireto,mao de obra,1436.77,Fornecedor A,
+110,2023-06-13,CC300,Direto,servicos terceiros,4953.87,Serviços LTDA,OP7985
+111,2024-11-04,CC400,Direto,manutencao,12632.23,FORN-XYZ,
+112,2023-08-08,CC200,Indireto,frete,-8648.1,Fornecedor C,
+113,2023-09-26,CC400,Direto,mao de obra,6587.1,Serviços LTDA,OP6134
+114,2024-04-13,CC500,Indireto,frete,2373.22,Fornecedor B,
+115,2023-07-07,CC300,Direto,mao de obra,2445.45,Energia SA,OP3316
+116,2023-07-10,CC400,Indireto,frete,2843.56,Energia SA,
+117,2024-04-06,CC500,Direto,manutencao,5847.81,Fornecedor A,
+118,2024-07-29,CC500,Indireto,energia,3983.06,Energia SA,OP9109
+119,2023-06-21,CC100,Indireto,manutencao,14231.83,Serviços LTDA,
+120,2023-06-22,CC400,Indireto,materia prima,5569.57,Serviços LTDA,
+121,2024-01-11,CC500,Direto,mao de obra,15524.75,Fornecedor A,
+122,2023-09-11,CC300,Indireto,materia prima,14746.18,Fornecedor A,OP8368
+123,2023-08-31,CC200,Indireto,materia prima,8837.49,Energia SA,OP6744
+124,2023-07-31,CC100,Direto,frete,2870.78,Serviços LTDA,OP6747
+125,2024-08-09,CC300,Direto,mao de obra,19582.1,Serviços LTDA,
+126,2023-05-10,CC200,Indireto,materia prima,19850.48,Fornecedor B,OP3396
+127,2024-10-09,CC300,Direto,servicos terceiros,7914.74,Energia SA,OP7786
+128,2023-04-06,CC400,Indireto,materia prima,12709.19,Serviços LTDA,OP5558
+129,2023-04-06,CC400,Indireto,manutencao,-6613.06,Energia SA,
+130,2024-05-21,CC300,Indireto,energia,19365.76,Fornecedor C,OP5646
+131,2024-11-29,CC100,Direto,frete,17063.21,Fornecedor A,OP2631
+132,2024-04-12,CC100,Direto,materia prima,18595.71,FORN-XYZ,
+133,2023-04-06,CC300,Indireto,energia,17501.03,Fornecedor C,OP2350
+134,2024-12-17,CC200,Direto,materia prima,7987.2,FORN-XYZ,
+135,2023-08-20,CC500,Direto,energia,9588.45,Energia SA,
+136,2024-03-08,CC200,Direto,servicos terceiros,6937.13,FORN-XYZ,
+137,2023-11-17,CC300,Indireto,materia prima,14642.19,Fornecedor C,OP3246
+138,2024-06-27,CC500,Direto,servicos terceiros,19859.51,Fornecedor A,OP3688
+139,2024-02-26,CC500,Indireto,servicos terceiros,4339.8,Energia SA,
+140,2024-01-29,CC300,Direto,materia prima,2886.26,FORN-XYZ,
+141,2024-09-07,CC500,Direto,mao de obra,12927.95,Energia SA,
+142,2024-02-06,CC300,Indireto,energia,10403.21,Energia SA,
+143,2024-08-31,CC100,Indireto,manutencao,2343.6,Serviços LTDA,OP1197
+144,2024-03-06,CC300,Indireto,energia,7798.08,Serviços LTDA,OP3830
+145,2023-08-09,CC100,Direto,materia prima,-11788.53,Fornecedor A,OP7520
+146,2024-07-03,CC500,Indireto,manutencao,14066.03,Serviços LTDA,OP3501
+147,2023-06-09,CC500,Direto,mao de obra,1672.53,Fornecedor C,
+148,2023-09-02,CC100,Indireto,servicos terceiros,8805.97,Fornecedor B,OP2412
+149,2024-11-13,CC200,Direto,manutencao,12284.71,Fornecedor A,
+150,2024-06-13,CC300,Direto,energia,9978.62,Fornecedor B,
+151,2023-01-31,CC300,Indireto,servicos terceiros,17739.65,FORN-XYZ,
+152,2024-05-23,CC400,Indireto,servicos terceiros,19503.51,Serviços LTDA,
+153,2023-04-16,CC500,Indireto,frete,3420.94,Energia SA,
+154,2023-02-17,CC400,Direto,materia prima,-17187.91,Fornecedor C,
+155,2024-11-02,CC400,Direto,materia prima,11102.01,Fornecedor B,
+156,2024-08-08,CC300,Indireto,servicos terceiros,6466.71,Fornecedor A,
+157,2024-02-15,CC100,Direto,energia,16106.33,FORN-XYZ,OP5625
+158,2023-07-25,CC300,Indireto,materia prima,-11106.52,Serviços LTDA,
+159,2023-07-20,CC500,Indireto,mao de obra,11874.65,Fornecedor B,
+160,2024-12-11,CC100,Indireto,materia prima,4736.66,Fornecedor C,OP1023
+161,2024-03-05,CC400,Indireto,materia prima,4183.37,Fornecedor A,OP3332
+162,2024-06-16,CC400,Direto,materia prima,18433.36,Energia SA,OP7102
+163,2024-02-08,CC100,Direto,frete,2001.98,Serviços LTDA,OP2020
+164,2024-02-07,CC300,Direto,energia,5904.35,Fornecedor C,OP8417
+165,2024-08-21,CC100,Direto,materia prima,18876.74,Fornecedor B,
+166,2024-01-02,CC200,Indireto,manutencao,6349.26,FORN-XYZ,OP6051
+167,2023-11-08,CC500,Indireto,materia prima,1899.38,Fornecedor A,OP4522
+168,2024-02-10,CC500,Direto,materia prima,14252.03,Fornecedor A,OP5896
+169,2024-07-23,CC500,Direto,materia prima,19046.72,Fornecedor B,OP2551
+170,2023-08-16,CC200,Direto,energia,2516.92,Fornecedor B,OP7563
+171,2023-03-18,CC100,Direto,frete,11763.76,Fornecedor A,OP4239
+172,2023-12-06,CC100,Direto,materia prima,18111.05,Fornecedor A,
+173,2024-05-23,CC100,Direto,frete,8719.81,FORN-XYZ,
+174,2024-04-01,CC200,Indireto,energia,18175.25,Fornecedor A,OP5026
+175,2023-03-31,CC300,Indireto,manutencao,17667.29,FORN-XYZ,OP3248
+176,2024-10-07,CC500,Direto,servicos terceiros,17704.59,Fornecedor A,OP7266
+177,2024-08-02,CC500,Indireto,frete,15650.56,Fornecedor C,OP7363
+178,2023-10-15,CC100,Direto,materia prima,6445.66,FORN-XYZ,OP9674
+179,2023-09-30,CC500,Direto,energia,2092.67,Energia SA,
+180,2023-06-27,CC200,Indireto,mao de obra,18710.6,Fornecedor B,OP6210
+181,2024-07-31,CC200,Direto,servicos terceiros,14041.16,Serviços LTDA,OP4084
+182,2023-08-27,CC500,Indireto,energia,9859.68,Fornecedor B,OP1326
+183,2023-05-14,CC300,Direto,mao de obra,18366.13,Energia SA,OP3907
+184,2023-05-26,CC100,Direto,materia prima,3039.47,Serviços LTDA,
+185,2023-04-14,CC300,Indireto,servicos terceiros,18844.27,Fornecedor C,
+186,2024-05-13,CC300,Direto,servicos terceiros,18979.0,Fornecedor B,
+187,2023-05-11,CC200,Direto,manutencao,6205.78,Energia SA,OP1029
+188,2024-09-18,CC200,Direto,energia,12087.53,Energia SA,OP2705
+189,2023-11-24,CC200,Direto,mao de obra,14932.33,Energia SA,OP2453
+190,2023-03-11,CC300,Indireto,materia prima,5377.73,Fornecedor C,
+191,2023-06-20,CC400,Direto,manutencao,8820.58,FORN-XYZ,OP7204
+192,2024-08-14,CC200,Indireto,materia prima,16593.26,Fornecedor B,
+193,2023-04-18,CC100,Direto,mao de obra,499.55,Fornecedor C,OP3787
+194,2023-04-06,CC300,Direto,servicos terceiros,1592.55,Serviços LTDA,
+195,2023-06-10,CC100,Indireto,servicos terceiros,3383.44,Fornecedor A,
+196,2024-07-07,CC300,Direto,manutencao,13974.21,Energia SA,OP5612
+197,2024-05-17,CC200,Direto,materia prima,1087.75,Fornecedor A,
+198,2024-09-06,CC400,Indireto,materia prima,5961.53,Fornecedor B,
+199,2024-04-29,CC100,Direto,energia,12799.99,Fornecedor C,OP7512
+200,2024-02-01,CC200,Indireto,servicos terceiros,5373.59,Fornecedor C,OP7249
+201,2023-09-27,CC200,Direto,manutencao,987.88,Fornecedor C,
+202,2024-02-28,CC500,Direto,materia prima,13396.01,Fornecedor B,OP1999
+203,2024-08-09,CC200,Indireto,frete,13772.65,FORN-XYZ,
+204,2024-06-13,CC500,Indireto,servicos terceiros,791.1,Energia SA,
+205,2023-08-05,CC200,Indireto,energia,18986.32,Fornecedor B,OP1699
+206,2024-10-04,CC200,Direto,servicos terceiros,8764.33,Serviços LTDA,OP5225
+207,2023-11-30,CC300,Direto,materia prima,7823.17,Serviços LTDA,
+208,2024-08-25,CC500,Indireto,materia prima,8347.4,Fornecedor A,
+209,2023-09-28,CC400,Indireto,frete,17614.7,Energia SA,OP8955
+210,2024-09-15,CC400,Direto,energia,5580.74,Fornecedor A,OP7484
+211,2024-01-17,CC100,Direto,materia prima,14940.42,Fornecedor C,OP5965
+212,2023-08-22,CC200,Indireto,manutencao,17178.87,Fornecedor C,OP8259
+213,2023-07-12,CC400,Indireto,servicos terceiros,8393.78,Fornecedor B,OP7671
+214,2023-11-15,CC500,Indireto,materia prima,10353.87,FORN-XYZ,
+215,2023-03-01,CC200,Direto,energia,17516.09,Fornecedor A,
+216,2024-04-20,,Indireto,servicos terceiros,4062.28,FORN-XYZ,
+217,2024-04-30,CC500,Direto,mao de obra,9826.86,Serviços LTDA,OP6730
+218,2023-10-19,CC100,Direto,mao de obra,15004.33,FORN-XYZ,
+219,2023-10-03,CC400,Direto,energia,12982.86,Serviços LTDA,
+220,2023-01-09,CC200,Indireto,energia,12982.69,Fornecedor C,OP6004
+221,2023-08-12,CC400,Indireto,manutencao,17046.56,Fornecedor C,OP9530
+222,2024-01-19,CC500,Direto,materia prima,10279.12,Energia SA,OP5631
+223,2024-10-17,CC300,Direto,manutencao,1370.36,Fornecedor C,OP5278
+224,2023-02-28,CC500,Direto,energia,10394.14,FORN-XYZ,
+225,2024-03-04,CC400,Direto,servicos terceiros,9997.72,FORN-XYZ,
+226,2024-10-15,CC400,Indireto,servicos terceiros,14296.05,Energia SA,OP6873
+227,2023-04-10,CC400,Direto,servicos terceiros,17542.25,Fornecedor B,
+228,2023-11-11,CC400,Indireto,servicos terceiros,1877.07,Fornecedor C,OP7089
+229,2024-10-11,CC500,Indireto,manutencao,17039.16,Serviços LTDA,OP2166
+230,2024-06-26,CC300,Direto,frete,2484.34,FORN-XYZ,
+231,2024-04-13,CC200,Direto,energia,6919.13,Fornecedor C,
+232,2024-10-11,CC100,Indireto,mao de obra,12657.55,Fornecedor A,OP8406
+233,2023-04-01,CC200,Direto,energia,11567.95,Serviços LTDA,OP8105
+234,2023-02-08,CC500,Indireto,manutencao,19310.02,Fornecedor B,
+235,2024-10-03,CC200,Indireto,frete,3892.48,Fornecedor B,OP6641
+236,2023-06-21,CC100,Direto,materia prima,7732.65,Fornecedor A,OP5885
+237,2024-03-20,CC200,Indireto,servicos terceiros,10453.74,Fornecedor C,OP9031
+238,2024-02-18,CC100,Direto,energia,18966.88,Fornecedor B,
+239,2023-05-07,CC300,Direto,servicos terceiros,536.07,Energia SA,OP1612
+240,2023-02-19,CC100,Indireto,frete,12500.38,Energia SA,
+241,2023-09-16,CC400,Direto,manutencao,8941.85,Energia SA,
+242,2024-06-16,CC300,Direto,mao de obra,8475.34,Serviços LTDA,OP3247
+243,2023-04-27,CC100,Direto,frete,14403.45,FORN-XYZ,
+244,2024-02-24,CC300,Indireto,frete,19465.08,Fornecedor B,OP1645
+245,2023-01-03,,Direto,servicos terceiros,18669.17,Energia SA,
+246,2023-03-18,CC100,Indireto,energia,18993.98,Fornecedor C,OP4787
+247,2023-06-28,CC100,Indireto,mao de obra,9339.12,Fornecedor C,OP6901
+248,2023-02-16,CC100,Indireto,servicos terceiros,2406.43,Fornecedor B,OP3793
+249,2023-04-06,CC300,Indireto,manutencao,19106.27,Fornecedor C,
+250,2024-01-30,CC400,Indireto,manutencao,19249.97,FORN-XYZ,
+251,2023-06-13,CC100,Direto,servicos terceiros,14555.58,FORN-XYZ,OP8908
+252,2023-01-30,CC200,Direto,frete,7657.04,FORN-XYZ,
+253,2023-11-18,CC100,Indireto,manutencao,1014.85,Energia SA,
+254,2023-04-08,CC400,Indireto,frete,10509.75,Energia SA,OP5072
+255,2024-07-25,CC500,Indireto,servicos terceiros,13558.28,Fornecedor A,
+256,2024-05-18,CC300,Indireto,manutencao,17401.37,Fornecedor B,OP6421
+257,2024-02-17,CC200,Direto,frete,4531.86,Fornecedor A,OP8521
+258,2023-05-02,CC400,Indireto,materia prima,17146.13,Energia SA,
+259,2023-04-04,CC500,Indireto,manutencao,813.06,Serviços LTDA,
+260,2023-08-17,CC400,Indireto,mao de obra,7330.52,Fornecedor C,OP8751
+261,2023-01-03,,Indireto,materia prima,2039.0,Fornecedor C,OP5783
+262,2024-02-24,CC100,Direto,materia prima,17947.85,Fornecedor C,
+263,2023-07-15,CC300,Direto,manutencao,4390.23,Fornecedor A,
+264,2024-05-31,CC200,Direto,manutencao,9202.02,FORN-XYZ,
+265,2023-07-01,CC500,Indireto,frete,9710.35,Fornecedor B,
+266,2024-05-31,CC400,Indireto,servicos terceiros,12050.87,FORN-XYZ,OP5067
+267,2023-05-17,CC200,Indireto,mao de obra,19412.78,FORN-XYZ,OP9393
+268,2023-08-11,CC200,Indireto,servicos terceiros,14762.69,Fornecedor B,OP5760
+269,2024-05-30,CC500,Direto,servicos terceiros,13036.72,Energia SA,
+270,2024-11-14,CC400,Indireto,frete,9659.36,Energia SA,OP9747
+271,2023-05-29,CC100,Indireto,materia prima,-10502.33,Energia SA,
+272,2023-05-30,CC100,Indireto,energia,19672.29,Energia SA,
+273,2024-11-22,CC500,Direto,mao de obra,16299.12,Fornecedor B,
+274,2024-02-01,CC400,Indireto,servicos terceiros,13323.42,Energia SA,
+275,2024-03-29,CC200,Direto,servicos terceiros,5101.69,Energia SA,
+276,2023-03-18,CC200,Direto,mao de obra,9031.42,Fornecedor B,
+277,2023-05-14,CC200,Indireto,materia prima,8627.31,Serviços LTDA,
+278,2023-06-07,CC300,Indireto,manutencao,14222.82,Serviços LTDA,OP1833
+279,2024-12-25,CC300,Indireto,frete,11048.19,Serviços LTDA,
+280,2024-02-18,CC100,Direto,frete,3271.47,Fornecedor C,
+281,2024-09-25,CC500,Indireto,mao de obra,7279.88,FORN-XYZ,
+282,2024-09-28,CC200,Indireto,manutencao,4882.92,Fornecedor A,OP6258
+283,2023-01-26,CC500,Direto,manutencao,5206.15,Fornecedor C,OP9426
+284,2023-11-25,CC500,Indireto,materia prima,5999.04,Fornecedor A,
+285,2023-08-07,CC400,Direto,servicos terceiros,1402.89,Fornecedor A,OP4368
+286,2023-12-06,CC100,Direto,servicos terceiros,-13752.27,Fornecedor A,
+287,2023-08-22,,Direto,mao de obra,11205.88,FORN-XYZ,OP7357
+288,2023-05-02,CC500,Indireto,manutencao,6396.44,Fornecedor A,
+289,2024-12-03,CC300,Direto,mao de obra,18568.15,Serviços LTDA,OP2417
+290,2024-04-30,CC200,Indireto,manutencao,7962.75,Serviços LTDA,
+291,2023-11-02,CC300,Indireto,frete,5970.07,Fornecedor A,
+292,2024-07-14,CC100,Direto,materia prima,11497.1,Fornecedor C,OP4441
+293,2023-05-26,CC200,Direto,manutencao,18122.0,Fornecedor B,OP4617
+294,2023-02-25,CC500,Direto,materia prima,3709.02,FORN-XYZ,OP2198
+295,2024-05-13,CC300,Direto,mao de obra,2054.23,Fornecedor C,
+296,2023-11-22,CC400,Direto,mao de obra,12428.36,FORN-XYZ,OP6379
+297,2024-03-14,CC200,Direto,frete,11380.55,Fornecedor A,
+298,2024-01-04,CC200,Direto,servicos terceiros,14822.34,Energia SA,OP6432
+299,2024-07-18,CC100,Indireto,manutencao,7238.96,Fornecedor B,OP2343
+300,2024-10-03,CC100,Direto,frete,4009.0,Energia SA,
+301,2023-08-06,CC100,Direto,frete,11620.13,Serviços LTDA,OP5269
+302,2024-08-26,CC300,Direto,mao de obra,7910.72,Fornecedor B,
+303,2024-09-20,CC200,Indireto,mao de obra,10093.13,Serviços LTDA,OP3299
+304,2023-05-30,CC400,Direto,energia,11370.51,Fornecedor C,
+305,2023-02-13,CC200,Indireto,energia,1350.94,Serviços LTDA,OP6918
+306,2024-10-26,CC300,Indireto,manutencao,17642.88,Fornecedor A,OP9542
+307,2024-10-31,CC400,Indireto,frete,10932.57,Fornecedor C,OP2275
+308,2023-12-20,CC400,Indireto,energia,10375.8,FORN-XYZ,
+309,2023-10-15,CC200,Indireto,energia,4676.82,Fornecedor B,
+310,2023-08-24,CC400,Indireto,frete,14374.32,Fornecedor C,OP2856
+311,2024-02-25,CC100,Indireto,manutencao,4293.01,Fornecedor B,
+312,2024-08-09,CC200,Direto,energia,12627.85,Fornecedor A,OP3725
+313,2024-07-31,CC100,Direto,frete,19168.94,Energia SA,
+314,2024-05-08,CC200,Direto,manutencao,12169.87,Fornecedor B,
+315,2024-12-03,CC300,Direto,frete,13227.01,FORN-XYZ,
+316,2024-06-19,CC500,Indireto,manutencao,-2731.04,Energia SA,
+317,2023-02-09,CC500,Direto,energia,9569.8,Serviços LTDA,
+318,2023-01-02,CC400,Indireto,servicos terceiros,2693.54,Serviços LTDA,OP7892
+319,2024-05-08,CC400,Direto,servicos terceiros,10643.35,Fornecedor C,OP2600
+320,2023-03-27,CC300,Direto,mao de obra,9595.11,Serviços LTDA,OP9908
+321,2023-01-08,CC500,Indireto,energia,208.84,Serviços LTDA,
+322,2024-02-23,CC300,Indireto,servicos terceiros,4187.83,Fornecedor A,OP3535
+323,2024-01-10,CC500,Indireto,mao de obra,17114.04,Fornecedor C,
+324,2024-01-15,CC500,Indireto,frete,15697.39,Serviços LTDA,OP8925
+325,2023-05-22,CC100,Indireto,frete,6952.69,Energia SA,OP4764
+326,2023-12-13,CC500,Direto,materia prima,4367.72,Serviços LTDA,
+327,2023-05-29,CC400,Indireto,servicos terceiros,205.28,Serviços LTDA,
+328,2023-02-08,,Direto,mao de obra,4513.23,FORN-XYZ,OP9536
+329,2023-07-26,CC500,Direto,energia,12841.8,Fornecedor C,
+330,2023-09-02,CC100,Direto,frete,3472.71,Fornecedor B,OP2422
+331,2023-07-25,CC500,Indireto,mao de obra,13426.27,Fornecedor A,
+332,2023-12-23,CC300,Indireto,servicos terceiros,16612.32,Fornecedor C,
+333,2024-02-21,CC500,Indireto,manutencao,11540.64,Fornecedor A,OP2185
+334,2024-07-04,CC500,Indireto,materia prima,16078.55,Fornecedor C,OP8254
+335,2024-04-14,CC400,Indireto,energia,15173.72,Serviços LTDA,OP1448
+336,2023-08-14,CC200,Direto,mao de obra,1444.33,Fornecedor C,OP7757
+337,2023-04-06,CC400,Direto,servicos terceiros,16660.32,Energia SA,
+338,2024-08-10,CC300,Direto,manutencao,6346.07,Fornecedor B,OP4115
+339,2023-07-31,CC200,Direto,energia,14735.04,Fornecedor B,OP5091
+340,2024-11-10,CC400,Direto,materia prima,2485.58,Serviços LTDA,
+341,2024-08-11,CC300,Indireto,mao de obra,12451.28,FORN-XYZ,OP3996
+342,2024-06-22,CC400,Indireto,energia,15028.37,FORN-XYZ,
+343,2024-04-13,CC100,Indireto,manutencao,17221.96,Energia SA,OP9490
+344,2024-01-24,CC500,Indireto,servicos terceiros,267.53,Fornecedor A,OP6331
+345,2024-04-27,CC500,Indireto,energia,11016.41,Fornecedor C,
+346,2024-01-17,CC300,Indireto,manutencao,4289.6,FORN-XYZ,OP5581
+347,2023-08-23,,Direto,frete,2709.67,Energia SA,
+348,2023-06-03,CC400,Indireto,manutencao,4001.66,Fornecedor A,OP3893
+349,2024-06-13,CC500,Indireto,energia,19911.68,Energia SA,OP6172
+350,2024-02-12,CC100,Indireto,mao de obra,11286.56,Energia SA,
+351,2024-04-05,CC300,Direto,mao de obra,9583.13,Fornecedor C,OP6914
+352,2024-11-26,CC500,Indireto,mao de obra,494.72,Fornecedor B,
+353,2024-04-02,CC100,Indireto,mao de obra,6569.3,FORN-XYZ,OP5694
+354,2024-03-07,CC500,Direto,energia,12847.55,Serviços LTDA,
+355,2024-10-30,CC300,Direto,energia,6938.15,Energia SA,OP5382
+356,2024-08-24,CC500,Indireto,manutencao,15641.38,FORN-XYZ,
+357,2023-09-15,CC100,Direto,materia prima,2588.29,Fornecedor B,OP3734
+358,2024-07-15,CC100,Direto,materia prima,1369.47,Fornecedor A,
+359,2024-02-04,CC300,Direto,mao de obra,12400.23,Fornecedor B,OP5053
+360,2023-06-24,CC100,Indireto,servicos terceiros,2615.59,Fornecedor A,OP6846
+361,2023-10-06,,Indireto,manutencao,19502.13,FORN-XYZ,
+362,2024-03-21,CC500,Indireto,servicos terceiros,15003.34,Energia SA,OP9745
+363,2024-03-28,CC300,Indireto,manutencao,10839.4,Fornecedor C,OP7753
+364,2023-05-20,CC300,Direto,mao de obra,310.06,Fornecedor C,
+365,2023-10-27,CC500,Indireto,manutencao,6062.25,Fornecedor B,OP1118
+366,2023-09-13,CC200,Direto,manutencao,17655.03,Energia SA,OP7385
+367,2024-06-13,CC500,Direto,mao de obra,1676.27,Energia SA,OP5454
+368,2023-05-20,CC300,Indireto,manutencao,3841.21,Fornecedor A,OP8460
+369,2023-01-20,CC200,Indireto,servicos terceiros,12492.8,Fornecedor A,
+370,2024-03-24,CC100,Direto,materia prima,5714.08,Fornecedor B,
+371,2024-05-25,CC300,Direto,manutencao,4422.04,FORN-XYZ,OP1519
+372,2023-03-15,CC500,Direto,energia,1215.16,FORN-XYZ,
+373,2023-09-12,CC400,Indireto,manutencao,16582.22,FORN-XYZ,
+374,2024-11-12,CC200,Direto,manutencao,14732.92,FORN-XYZ,OP7375
+375,2024-07-16,CC500,Indireto,energia,12620.37,Fornecedor A,OP5150
+376,2024-11-13,CC200,Indireto,energia,7272.49,Fornecedor A,OP4866
+377,2023-05-03,CC400,Indireto,materia prima,3430.47,Fornecedor B,
+378,2023-04-02,,Indireto,servicos terceiros,11964.62,Fornecedor B,
+379,2023-06-07,CC500,Indireto,servicos terceiros,1295.04,Fornecedor A,OP3061
+380,2023-12-22,CC400,Direto,mao de obra,19635.35,Energia SA,
+381,2023-02-10,CC400,Indireto,mao de obra,14515.54,Energia SA,OP8168
+382,2023-11-28,CC400,Indireto,energia,11377.36,Fornecedor C,
+383,2024-01-11,CC400,Direto,manutencao,5983.89,Fornecedor A,OP9289
+384,2024-09-27,,Direto,materia prima,12432.72,Fornecedor C,OP2037
+385,2023-06-07,CC500,Direto,frete,13696.16,Fornecedor C,OP6285
+386,2023-02-14,CC200,Indireto,materia prima,2015.5,Fornecedor B,
+387,2024-10-19,CC400,Direto,manutencao,3913.17,Energia SA,OP9026
+388,2023-01-14,CC200,Direto,mao de obra,4492.38,Energia SA,
+389,2024-03-01,CC300,Indireto,servicos terceiros,1307.93,Energia SA,OP1955
+390,2023-08-10,CC500,Direto,servicos terceiros,1500.72,Fornecedor A,
+391,2024-08-06,CC200,Indireto,energia,3943.08,Serviços LTDA,
+392,2023-04-17,CC200,Indireto,servicos terceiros,9228.54,Fornecedor B,OP7579
+393,2023-12-27,CC300,Direto,frete,19968.83,Serviços LTDA,OP6319
+394,2024-09-15,CC200,Indireto,servicos terceiros,8668.7,Serviços LTDA,
+395,2024-04-08,CC400,Indireto,frete,18530.32,FORN-XYZ,
+396,2023-11-06,,Indireto,frete,424.42,Fornecedor C,
+397,2023-10-10,CC500,Indireto,materia prima,15453.31,Serviços LTDA,
+398,2024-01-11,CC500,Direto,manutencao,7177.55,Fornecedor B,OP4817
+399,2023-08-11,,Indireto,materia prima,11452.69,Energia SA,OP6319
+400,2024-08-13,CC100,Direto,manutencao,16531.53,Serviços LTDA,
+401,2023-12-09,CC300,Indireto,materia prima,15624.43,FORN-XYZ,
+402,2023-01-12,CC400,Direto,servicos terceiros,13090.31,Fornecedor A,
+403,2024-12-15,CC200,Indireto,frete,11341.77,Fornecedor B,OP1827
+404,2024-03-18,CC300,Indireto,frete,11547.57,FORN-XYZ,
+405,2024-07-15,CC400,Indireto,materia prima,9569.51,Fornecedor C,OP2393
+406,2024-07-26,CC200,Indireto,servicos terceiros,2694.47,FORN-XYZ,
+407,2023-11-28,CC500,Direto,energia,1525.72,Fornecedor A,OP2843
+408,2024-08-31,CC100,Indireto,mao de obra,7031.33,Fornecedor C,OP3773
+409,2023-08-28,CC200,Indireto,frete,3001.79,Energia SA,
+410,2024-09-27,CC200,Direto,materia prima,14817.67,Fornecedor C,OP1225
+411,2023-08-03,CC500,Direto,mao de obra,-9056.23,Fornecedor B,OP4339
+412,2024-12-16,CC100,Indireto,frete,14625.48,FORN-XYZ,
+413,2024-12-14,CC500,Indireto,energia,1296.19,Fornecedor C,OP1869
+414,2024-11-06,CC300,Direto,materia prima,7834.04,Fornecedor A,OP1312
+415,2024-12-27,CC100,Indireto,energia,19597.88,Fornecedor C,
+416,2024-12-30,CC100,Direto,energia,10062.95,Fornecedor A,OP5053
+417,2023-12-22,CC300,Indireto,manutencao,7928.66,Fornecedor C,
+418,2023-01-31,CC500,Indireto,materia prima,12553.27,Fornecedor C,
+419,2024-01-27,CC500,Indireto,manutencao,13172.94,Energia SA,OP4726
+420,2024-09-11,CC300,Direto,frete,3139.71,FORN-XYZ,
+421,2023-07-27,CC200,Direto,servicos terceiros,2857.67,Fornecedor C,
+422,2023-06-11,CC300,Indireto,energia,13159.01,Fornecedor A,
+423,2023-01-31,CC300,Direto,mao de obra,16806.5,FORN-XYZ,OP7737
+424,2023-10-08,CC200,Indireto,servicos terceiros,18681.99,Fornecedor B,
+425,2023-10-01,CC500,Direto,materia prima,15272.7,Serviços LTDA,
+426,2024-05-03,CC200,Direto,servicos terceiros,619.08,Serviços LTDA,OP8680
+427,2023-07-17,CC200,Direto,manutencao,9879.77,Fornecedor A,
+428,2023-07-27,CC200,Indireto,manutencao,4528.83,Fornecedor A,OP3901
+429,2023-09-10,CC400,Indireto,servicos terceiros,6565.42,FORN-XYZ,OP1685
+430,2024-08-31,CC500,Indireto,manutencao,12268.95,Serviços LTDA,
+431,2023-09-09,CC500,Indireto,manutencao,16557.5,Serviços LTDA,
+432,2023-07-14,CC300,Indireto,frete,15326.68,FORN-XYZ,OP7521
+433,2023-02-25,CC500,Indireto,manutencao,3413.08,Fornecedor B,OP8595
+434,2024-08-22,CC500,Direto,servicos terceiros,10063.09,Fornecedor B,OP7440
+435,2024-12-30,CC200,Indireto,manutencao,595.75,FORN-XYZ,OP2477
+436,2023-06-17,CC100,Indireto,servicos terceiros,13006.67,Fornecedor A,OP2870
+437,2024-06-07,CC500,Indireto,materia prima,10523.96,Fornecedor B,OP7204
+438,2024-11-06,CC200,Direto,energia,18253.83,Fornecedor B,
+439,2024-04-01,CC300,Direto,manutencao,6230.44,Energia SA,
+440,2023-01-13,CC400,Direto,energia,170.3,FORN-XYZ,
+441,2024-04-09,CC400,Indireto,energia,4415.79,FORN-XYZ,
+442,2023-08-01,CC100,Direto,frete,5634.45,Fornecedor B,
+443,2024-08-14,CC500,Indireto,materia prima,2992.95,Fornecedor C,
+444,2024-11-19,CC300,Direto,materia prima,8397.44,Serviços LTDA,OP3906
+445,2024-01-13,CC400,Indireto,materia prima,1953.21,Fornecedor A,
+446,2023-10-09,CC300,Indireto,manutencao,2777.46,Serviços LTDA,
+447,2024-10-06,CC500,Direto,frete,1257.87,Fornecedor A,OP8924
+448,2024-08-11,CC500,Indireto,frete,16971.18,Fornecedor C,OP3125
+449,2023-08-27,CC300,Indireto,manutencao,16178.81,Fornecedor B,
+450,2023-08-01,CC500,Direto,manutencao,12546.67,FORN-XYZ,
+451,2023-01-12,CC200,Indireto,mao de obra,11252.27,Energia SA,OP5614
+452,2023-01-07,CC100,Direto,mao de obra,6075.65,Energia SA,OP6460
+453,2023-06-29,CC200,Indireto,servicos terceiros,11421.54,Fornecedor C,OP6536
+454,2024-10-04,CC400,Indireto,materia prima,12948.48,Serviços LTDA,OP6490
+455,2024-08-01,CC300,Indireto,servicos terceiros,1214.84,Serviços LTDA,
+456,2023-12-29,CC100,Direto,frete,13741.32,Fornecedor B,
+457,2024-08-07,,Indireto,manutencao,12567.57,FORN-XYZ,
+458,2023-10-06,CC400,Indireto,servicos terceiros,17170.61,Fornecedor A,
+459,2024-06-21,CC300,Indireto,manutencao,16606.2,Fornecedor B,OP2838
+460,2023-01-26,CC400,Direto,energia,18275.74,Serviços LTDA,
+461,2023-12-02,CC200,Indireto,manutencao,14675.58,Fornecedor A,
+462,2024-06-18,CC100,Direto,servicos terceiros,827.4,Fornecedor A,
+463,2024-06-17,CC300,Direto,mao de obra,9390.83,Fornecedor A,
+464,2023-11-23,CC400,Indireto,energia,3931.66,Energia SA,OP2927
+465,2024-09-29,CC500,Direto,energia,-5545.37,Serviços LTDA,
+466,2024-12-22,CC300,Indireto,frete,6437.85,Serviços LTDA,
+467,2024-03-30,CC100,Direto,mao de obra,12303.93,Fornecedor B,OP1475
+468,2024-02-06,CC200,Direto,materia prima,7733.63,Energia SA,OP8304
+469,2024-11-17,CC500,Indireto,mao de obra,16367.1,Fornecedor A,
+470,2024-12-01,CC400,Direto,servicos terceiros,9418.69,FORN-XYZ,
+471,2023-07-07,CC300,Direto,frete,5235.25,Fornecedor C,OP8426
+472,2024-04-17,CC200,Direto,materia prima,9559.15,Fornecedor C,
+473,2023-11-30,CC500,Direto,manutencao,16369.3,Energia SA,OP2162
+474,2023-09-07,CC500,Indireto,manutencao,11851.67,Fornecedor B,OP8903
+475,2024-03-17,CC400,Direto,mao de obra,4243.94,Serviços LTDA,
+476,2024-12-29,CC500,Direto,servicos terceiros,13425.14,FORN-XYZ,OP2873
+477,2023-11-12,CC400,Indireto,frete,2043.31,Fornecedor A,OP2781
+478,2023-08-11,CC200,Indireto,manutencao,12935.28,Serviços LTDA,
+479,2024-08-14,CC400,Direto,manutencao,10671.99,Fornecedor B,OP4369
+480,2024-03-21,CC300,Indireto,frete,15907.5,Fornecedor A,OP1133
+481,2023-02-24,CC100,Direto,mao de obra,1341.97,Energia SA,
+482,2024-02-08,CC300,Indireto,materia prima,4781.3,Energia SA,OP7271
+483,2024-05-01,CC200,Indireto,manutencao,10947.86,Fornecedor B,OP7301
+484,2023-05-09,CC200,Indireto,energia,5840.57,Fornecedor A,
+485,2023-05-20,CC100,Direto,servicos terceiros,17709.28,Fornecedor B,OP7813
+486,2024-07-19,CC400,Indireto,frete,3677.97,FORN-XYZ,
+487,2023-08-31,CC500,Direto,manutencao,12131.01,Fornecedor C,OP7731
+488,2023-04-26,CC500,Direto,materia prima,11406.18,FORN-XYZ,
+489,2024-09-16,CC100,Indireto,manutencao,10387.3,Fornecedor B,
+490,2023-01-12,CC400,Indireto,frete,1150.21,FORN-XYZ,OP9399
+491,2023-10-29,,Indireto,manutencao,7123.0,Fornecedor B,OP1578
+492,2024-08-09,CC100,Indireto,materia prima,12623.07,Energia SA,
+493,2023-10-12,CC300,Indireto,manutencao,1741.95,Fornecedor B,OP5603
+494,2024-08-28,CC200,Indireto,materia prima,14854.44,Energia SA,OP8317
+495,2023-07-05,CC500,Direto,mao de obra,15672.3,Fornecedor A,
+496,2024-05-22,CC400,Direto,frete,18685.44,FORN-XYZ,OP4898
+497,2023-02-25,CC300,Direto,energia,11597.37,Fornecedor A,
+498,2024-06-29,CC200,Indireto,manutencao,9577.02,FORN-XYZ,OP7390
+499,2023-10-23,CC400,Indireto,energia,10655.8,FORN-XYZ,
+500,2024-03-18,CC500,Direto,frete,12784.74,Energia SA,OP5466
+501,2024-08-21,CC400,Indireto,mao de obra,16066.1,FORN-XYZ,
+502,2024-07-14,CC100,Indireto,servicos terceiros,13836.54,Energia SA,
+503,2024-04-01,CC300,Direto,manutencao,2044.21,Fornecedor B,OP5641
+504,2024-08-31,CC200,Direto,materia prima,571.64,Serviços LTDA,
+505,2024-10-25,CC500,Direto,frete,2685.15,Fornecedor B,
+506,2024-10-16,CC400,Indireto,mao de obra,9392.42,Fornecedor C,OP7995
+507,2023-03-05,CC400,Indireto,energia,15636.55,FORN-XYZ,
+508,2023-07-25,CC500,Indireto,mao de obra,3640.8,FORN-XYZ,OP3923
+509,2024-09-20,CC100,Direto,energia,10858.58,FORN-XYZ,
+510,2024-04-01,CC100,Direto,materia prima,1501.21,FORN-XYZ,
+511,2023-12-04,CC400,Direto,servicos terceiros,7870.63,Serviços LTDA,OP1060
+512,2023-03-13,CC500,Indireto,manutencao,8137.86,Fornecedor B,OP1054
+513,2024-01-03,CC300,Indireto,materia prima,11388.15,Energia SA,OP5961
+514,2024-01-10,CC500,Direto,servicos terceiros,19940.61,Fornecedor C,OP2318
+515,2024-01-29,CC200,Indireto,servicos terceiros,4142.1,Fornecedor C,
+516,2023-07-14,CC200,Indireto,manutencao,1788.76,Fornecedor A,
+517,2024-10-20,CC300,Direto,manutencao,7836.47,FORN-XYZ,OP9748
+518,2023-02-13,CC400,Direto,materia prima,6851.77,Fornecedor A,OP4468
+519,2023-02-07,CC200,Direto,servicos terceiros,11628.98,FORN-XYZ,OP1312
+520,2023-06-26,CC100,Direto,energia,14055.81,Fornecedor C,OP2594
+521,2023-04-27,CC400,Direto,frete,1372.76,Serviços LTDA,
+522,2024-11-25,CC400,Direto,manutencao,6813.13,Fornecedor C,
+523,2023-12-10,CC100,Indireto,energia,15308.13,Fornecedor A,
+524,2024-03-25,CC200,Indireto,energia,13956.29,Serviços LTDA,
+525,2023-01-17,CC400,Direto,servicos terceiros,12287.59,Fornecedor A,
+526,2023-10-18,CC400,Direto,materia prima,14164.15,Energia SA,
+527,2024-02-26,,Direto,energia,12832.53,Fornecedor B,
+528,2023-11-05,CC300,Indireto,frete,19010.93,FORN-XYZ,
+529,2024-09-25,CC300,Direto,materia prima,19733.41,Serviços LTDA,
+530,2023-07-18,,Indireto,servicos terceiros,13220.61,Fornecedor B,OP8772
+531,2024-10-22,CC300,Direto,energia,13435.84,Fornecedor C,OP4433
+532,2024-04-09,CC100,Indireto,mao de obra,12374.71,Fornecedor A,
+533,2023-08-29,CC400,Direto,materia prima,9752.72,Serviços LTDA,OP6340
+534,2023-04-23,,Direto,servicos terceiros,13569.37,Fornecedor B,
+535,2024-04-27,CC500,Indireto,energia,7573.09,FORN-XYZ,OP1890
+536,2024-02-01,CC300,Direto,energia,18564.95,Fornecedor B,
+537,2024-12-09,CC500,Indireto,mao de obra,4124.0,Fornecedor A,
+538,2023-12-18,CC200,Direto,manutencao,9225.72,Fornecedor C,
+539,2023-08-10,CC500,Direto,materia prima,8292.75,FORN-XYZ,OP8581
+540,2023-09-11,CC300,Direto,servicos terceiros,8619.4,FORN-XYZ,
+541,2024-04-26,CC500,Direto,manutencao,19605.66,Fornecedor A,OP7974
+542,2023-09-04,CC100,Indireto,servicos terceiros,16443.7,Serviços LTDA,OP1203
+543,2023-04-03,CC100,Direto,energia,7232.27,FORN-XYZ,
+544,2024-04-10,CC400,Indireto,frete,-14971.01,Fornecedor B,
+545,2024-10-04,CC100,Indireto,servicos terceiros,9339.49,FORN-XYZ,
+546,2024-09-19,CC500,Indireto,manutencao,15082.47,Serviços LTDA,
+547,2024-11-21,CC300,Indireto,servicos terceiros,18651.64,Fornecedor A,OP2818
+548,2023-06-29,CC500,Indireto,manutencao,12420.76,Energia SA,
+549,2024-05-04,CC500,Direto,mao de obra,4848.79,Energia SA,
+550,2024-03-09,CC300,Indireto,mao de obra,17968.87,Fornecedor A,OP2038
+551,2023-05-06,CC400,Indireto,manutencao,9775.92,Energia SA,OP9714
+552,2024-12-10,CC100,Indireto,frete,7426.1,Fornecedor B,
+553,2023-03-20,CC100,Direto,manutencao,17969.12,Fornecedor B,
+554,2024-10-04,CC100,Direto,manutencao,3094.91,Fornecedor C,
+555,2023-01-22,CC300,Indireto,mao de obra,8460.59,Fornecedor B,
+556,2023-12-18,CC300,Direto,frete,12928.97,FORN-XYZ,OP9686
+557,2023-11-10,CC200,Indireto,mao de obra,11388.31,Fornecedor C,OP4715
+558,2023-12-28,CC300,Indireto,mao de obra,15418.02,FORN-XYZ,
+559,2024-12-10,CC200,Indireto,energia,19466.8,Fornecedor B,
+560,2024-01-14,CC200,Direto,mao de obra,11533.05,Fornecedor B,OP1568
+561,2023-06-16,CC500,Indireto,energia,7521.01,Fornecedor C,
+562,2023-11-24,CC200,Indireto,manutencao,15393.51,Fornecedor A,OP9948
+563,2024-08-10,CC200,Indireto,manutencao,17929.95,Serviços LTDA,OP8243
+564,2024-11-25,CC500,Direto,servicos terceiros,9631.73,Fornecedor A,
+565,2023-04-05,CC300,Indireto,frete,16833.45,Fornecedor A,
+566,2024-04-01,CC100,Indireto,energia,548.72,Serviços LTDA,
+567,2023-02-27,CC300,Indireto,mao de obra,12103.12,FORN-XYZ,OP3423
+568,2023-12-26,CC300,Indireto,manutencao,7519.34,FORN-XYZ,
+569,2023-10-23,CC200,Indireto,servicos terceiros,19852.68,Energia SA,OP7944
+570,2023-11-07,CC400,Direto,frete,11998.92,Serviços LTDA,
+571,2023-10-07,,Indireto,materia prima,231.72,Fornecedor B,
+572,2024-05-17,CC100,Direto,energia,16662.45,Fornecedor C,OP5979
+573,2023-09-26,CC300,Indireto,energia,-634.12,Energia SA,
+574,2024-10-22,CC200,Indireto,manutencao,3669.51,Fornecedor A,OP2955
+575,2024-05-07,CC500,Indireto,materia prima,12017.94,FORN-XYZ,OP5225
+576,2023-09-23,CC200,Direto,mao de obra,10299.26,Serviços LTDA,
+577,2023-06-17,CC100,Indireto,manutencao,17578.51,Fornecedor C,OP6917
+578,2023-03-20,CC500,Indireto,materia prima,5868.14,Fornecedor B,
+579,2024-12-02,,Direto,frete,6519.88,Fornecedor C,
+580,2024-01-17,CC400,Indireto,energia,356.66,FORN-XYZ,
+581,2023-07-12,CC500,Direto,energia,3175.64,Serviços LTDA,
+582,2023-05-15,CC100,Indireto,manutencao,18329.02,FORN-XYZ,OP6705
+583,2024-09-03,CC500,Indireto,energia,16359.07,Fornecedor C,OP3821
+584,2024-12-11,CC200,Direto,servicos terceiros,16310.02,Energia SA,OP4712
+585,2024-12-08,CC100,Direto,energia,2691.34,Fornecedor A,OP1308
+586,2024-11-06,CC500,Indireto,materia prima,4007.38,Serviços LTDA,OP1971
+587,2023-01-11,CC100,Direto,mao de obra,961.3,Fornecedor A,
+588,2023-10-12,CC500,Direto,servicos terceiros,7095.52,Fornecedor C,
+589,2024-08-15,CC100,Direto,frete,11447.68,Serviços LTDA,
+590,2023-04-12,CC200,Indireto,energia,18043.04,Serviços LTDA,OP8777
+591,2023-12-30,CC400,Direto,manutencao,13503.16,FORN-XYZ,
+592,2024-04-22,CC100,Indireto,materia prima,15252.05,Serviços LTDA,OP3226
+593,2023-03-26,CC300,Indireto,servicos terceiros,5836.6,FORN-XYZ,OP2895
+594,2024-03-30,CC200,Indireto,manutencao,12047.75,Serviços LTDA,OP7672
+595,2024-05-02,CC300,Indireto,energia,17149.8,Fornecedor B,OP1209
+596,2023-03-29,CC100,Direto,manutencao,8817.36,Fornecedor B,OP7468
+597,2023-03-08,CC300,Direto,servicos terceiros,18513.28,Fornecedor B,
+598,2024-05-26,CC300,Indireto,materia prima,4734.11,Energia SA,OP5472
+599,2024-05-11,CC500,Indireto,manutencao,13366.87,Fornecedor C,OP3414
+600,2024-10-05,CC200,Direto,materia prima,5088.73,Fornecedor A,
+601,2024-01-27,CC500,Direto,manutencao,13594.34,Energia SA,
+602,2024-11-07,CC500,Indireto,frete,12502.33,FORN-XYZ,
+603,2024-07-09,CC300,Indireto,servicos terceiros,10008.19,Serviços LTDA,
+604,2024-04-05,CC300,Direto,manutencao,17614.5,FORN-XYZ,OP8250
+605,2023-11-07,CC200,Direto,materia prima,3619.7,FORN-XYZ,
+606,2024-08-05,CC400,Indireto,servicos terceiros,7842.7,Energia SA,OP9837
+607,2024-02-05,CC300,Indireto,frete,17101.59,FORN-XYZ,OP7189
+608,2023-05-12,CC300,Indireto,mao de obra,1322.34,Fornecedor C,OP1440
+609,2024-02-26,CC300,Indireto,materia prima,8620.15,Fornecedor A,
+610,2024-12-05,CC100,Direto,servicos terceiros,6310.78,Fornecedor C,OP2875
+611,2024-11-04,,Direto,materia prima,10814.49,Serviços LTDA,OP9433
+612,2023-11-21,CC400,Indireto,materia prima,13949.57,Serviços LTDA,OP7394
+613,2023-12-11,CC400,Direto,manutencao,2091.13,Serviços LTDA,
+614,2024-10-12,CC100,Indireto,mao de obra,19391.61,Serviços LTDA,OP4507
+615,2023-08-20,CC500,Indireto,materia prima,6016.67,Energia SA,
+616,2024-05-01,CC400,Indireto,mao de obra,1438.67,Fornecedor B,
+617,2024-07-06,CC300,Indireto,frete,16102.12,Fornecedor B,OP7788
+618,2024-07-14,CC200,Indireto,frete,10355.85,Fornecedor A,
+619,2024-04-23,CC300,Indireto,energia,13250.04,Energia SA,OP9728
+620,2023-09-04,CC200,Direto,frete,4092.9,Energia SA,OP5919
+621,2024-10-11,CC200,Indireto,mao de obra,17217.7,FORN-XYZ,OP5373
+622,2023-09-02,,Direto,mao de obra,13768.41,Fornecedor B,
+623,2024-03-22,,Direto,mao de obra,9336.78,Energia SA,
+624,2023-10-12,CC500,Direto,mao de obra,2814.97,Fornecedor B,OP1691
+625,2024-09-08,CC300,Direto,materia prima,17205.72,Fornecedor A,OP7668
+626,2023-05-24,CC200,Direto,manutencao,18868.93,Fornecedor A,
+627,2023-05-06,CC300,Indireto,manutencao,17702.84,Fornecedor C,
+628,2023-10-09,CC400,Indireto,energia,2971.13,FORN-XYZ,
+629,2023-11-21,CC500,Indireto,frete,7556.63,FORN-XYZ,
+630,2023-11-12,CC100,Indireto,energia,7323.66,Energia SA,
+631,2024-12-18,CC300,Direto,mao de obra,11099.29,Energia SA,
+632,2023-09-19,CC300,Indireto,manutencao,256.54,Fornecedor A,OP4857
+633,2024-10-21,CC400,Direto,energia,18326.23,Fornecedor A,
+634,2023-12-07,CC400,Indireto,manutencao,14765.15,Fornecedor A,OP3627
+635,2024-07-14,CC300,Direto,mao de obra,8475.32,FORN-XYZ,
+636,2023-01-04,,Direto,servicos terceiros,8923.76,Fornecedor B,OP6006
+637,2024-10-26,CC200,Direto,materia prima,3240.67,Serviços LTDA,OP7722
+638,2023-06-27,,Indireto,manutencao,17482.77,Fornecedor C,
+639,2024-01-22,CC500,Direto,manutencao,7415.23,Fornecedor B,
+640,2024-12-19,CC200,Direto,materia prima,19485.14,Fornecedor A,OP7570
+641,2024-08-03,CC100,Indireto,energia,1872.32,Fornecedor A,OP9615
+642,2023-07-28,CC200,Indireto,servicos terceiros,9933.57,Fornecedor C,OP5717
+643,2023-08-09,CC300,Indireto,energia,8683.04,Energia SA,OP4102
+644,2023-09-26,CC200,Direto,manutencao,-15870.02,Serviços LTDA,
+645,2023-01-11,CC400,Indireto,frete,13716.92,Fornecedor B,OP6296
+646,2024-09-03,CC300,Direto,servicos terceiros,7731.56,Fornecedor A,
+647,2023-12-29,CC500,Direto,mao de obra,18628.19,Energia SA,
+648,2024-02-09,CC300,Indireto,frete,12431.19,Fornecedor B,
+649,2024-04-24,CC200,Indireto,energia,10124.56,Fornecedor A,OP6198
+650,2023-05-11,CC400,Direto,mao de obra,2425.16,Fornecedor C,OP6907
+651,2023-09-28,CC500,Indireto,mao de obra,12297.34,Fornecedor C,
+652,2023-06-04,CC500,Indireto,servicos terceiros,19891.84,Energia SA,
+653,2024-04-26,CC300,Direto,energia,1185.89,Fornecedor B,OP8653
+654,2024-12-27,CC500,Direto,manutencao,911.75,FORN-XYZ,OP8499
+655,2023-04-06,CC200,Direto,servicos terceiros,17350.9,Fornecedor C,
+656,2024-08-20,CC100,Indireto,frete,17828.8,Serviços LTDA,OP3958
+657,2023-12-03,CC100,Direto,energia,15388.24,Fornecedor C,OP2998
+658,2023-11-28,CC200,Indireto,frete,18590.05,Fornecedor A,OP2328
+659,2024-11-04,,Indireto,manutencao,12604.3,Fornecedor C,OP1718
+660,2024-08-05,CC200,Indireto,servicos terceiros,19996.44,Fornecedor B,OP1797
+661,2024-09-08,CC400,Indireto,materia prima,14901.62,Fornecedor A,OP7534
+662,2023-04-02,CC100,Direto,energia,19304.48,Fornecedor B,OP3669
+663,2023-06-07,CC100,Indireto,mao de obra,12978.64,Fornecedor C,OP9042
+664,2023-04-09,CC300,Indireto,servicos terceiros,12109.92,Serviços LTDA,OP4274
+665,2024-03-09,CC100,Indireto,manutencao,9581.15,FORN-XYZ,
+666,2023-12-16,CC400,Indireto,servicos terceiros,8577.74,Energia SA,
+667,2023-10-25,CC400,Indireto,frete,12628.24,FORN-XYZ,OP2297
+668,2023-11-04,,Indireto,energia,19685.31,Serviços LTDA,OP8007
+669,2023-04-21,CC500,Direto,frete,1623.0,FORN-XYZ,
+670,2023-12-30,CC300,Indireto,servicos terceiros,14434.17,Serviços LTDA,
+671,2023-07-06,CC400,Direto,servicos terceiros,13265.41,Fornecedor A,OP2364
+672,2024-11-17,CC400,Indireto,mao de obra,11785.45,Serviços LTDA,OP5342
+673,2024-09-10,CC300,Direto,energia,3783.24,Energia SA,OP2742
+674,2024-11-02,CC400,Direto,materia prima,-7959.18,FORN-XYZ,OP7637
+675,2024-12-08,CC400,Indireto,frete,16281.34,Fornecedor C,
+676,2024-12-13,CC200,Direto,materia prima,3896.96,Fornecedor A,OP4428
+677,2024-07-05,CC200,Direto,servicos terceiros,4911.43,Fornecedor A,OP5930
+678,2023-06-06,CC400,Direto,manutencao,8495.4,FORN-XYZ,
+679,2024-02-06,CC100,Indireto,frete,4928.33,Fornecedor C,
+680,2024-09-02,CC500,Indireto,manutencao,16987.46,Fornecedor C,OP1606
+681,2024-11-25,CC400,Indireto,manutencao,10315.78,Fornecedor B,
+682,2024-10-25,CC400,Indireto,frete,6385.42,FORN-XYZ,OP2915
+683,2023-10-22,CC200,Indireto,manutencao,-13980.54,FORN-XYZ,OP6633
+684,2023-12-14,CC500,Direto,frete,4472.08,Energia SA,
+685,2024-11-20,CC300,Indireto,servicos terceiros,14256.57,FORN-XYZ,
+686,2023-05-13,CC200,Indireto,servicos terceiros,15010.16,Fornecedor B,OP3561
+687,2023-08-29,CC200,Direto,manutencao,18866.79,Serviços LTDA,
+688,2024-05-30,CC100,Indireto,mao de obra,7205.17,Fornecedor A,OP6533
+689,2024-05-13,CC300,Direto,frete,4611.14,Fornecedor C,
+690,2024-09-10,CC100,Indireto,energia,17082.82,Energia SA,OP1826
+691,2024-09-16,CC100,Indireto,materia prima,19495.73,Serviços LTDA,
+692,2024-01-06,CC200,Direto,servicos terceiros,2449.38,Energia SA,OP5786
+693,2024-01-08,,Indireto,servicos terceiros,17422.8,Fornecedor B,
+694,2024-04-30,CC300,Indireto,manutencao,-15407.46,Fornecedor C,
+695,2024-01-05,CC200,Direto,mao de obra,7511.48,Fornecedor B,OP9677
+696,2024-02-24,CC400,Direto,energia,16055.2,Serviços LTDA,
+697,2024-06-13,,Indireto,energia,15426.02,Fornecedor A,OP6542
+698,2023-02-07,CC200,Indireto,energia,8738.04,Serviços LTDA,OP1947
+699,2023-11-08,CC300,Indireto,manutencao,17727.08,Fornecedor C,OP1129
+700,2024-07-11,CC500,Direto,servicos terceiros,8138.37,Serviços LTDA,OP8244
+701,2024-07-04,CC300,Indireto,energia,17631.4,FORN-XYZ,OP3064
+702,2023-12-15,CC200,Direto,materia prima,10282.26,Fornecedor A,OP1456
+703,2023-04-24,CC100,Direto,mao de obra,14557.53,Fornecedor C,OP5255
+704,2024-04-04,CC300,Direto,materia prima,15155.54,Serviços LTDA,OP1085
+705,2024-08-02,CC500,Indireto,energia,16127.21,Serviços LTDA,OP4831
+706,2024-08-09,CC200,Indireto,mao de obra,13371.76,Energia SA,
+707,2024-01-05,CC400,Direto,mao de obra,10377.39,Fornecedor A,OP3401
+708,2023-05-14,CC400,Indireto,materia prima,1935.75,Fornecedor B,
+709,2024-06-15,CC400,Indireto,servicos terceiros,10572.49,Fornecedor C,OP9172
+710,2024-03-02,CC200,Indireto,servicos terceiros,18627.61,Fornecedor B,
+711,2024-06-09,CC500,Indireto,servicos terceiros,9208.48,Fornecedor A,OP4483
+712,2024-01-14,CC100,Indireto,materia prima,14955.28,Serviços LTDA,
+713,2023-06-06,CC100,Direto,mao de obra,11478.12,Fornecedor C,OP5995
+714,2023-05-26,CC500,Indireto,mao de obra,9769.92,FORN-XYZ,OP1797
+715,2023-01-03,CC100,Indireto,energia,3743.23,Serviços LTDA,
+716,2024-04-08,CC300,Direto,manutencao,9675.41,FORN-XYZ,
+717,2024-11-14,CC400,Direto,frete,12765.56,Fornecedor B,
+718,2024-07-07,CC100,Indireto,manutencao,4733.16,Energia SA,OP8259
+719,2024-12-25,CC300,Direto,energia,14173.45,Serviços LTDA,
+720,2024-08-06,CC500,Direto,frete,10882.5,Fornecedor B,
+721,2023-01-20,CC300,Direto,servicos terceiros,18730.02,Fornecedor B,OP5018
+722,2023-02-16,,Direto,frete,12176.41,Fornecedor A,OP6569
+723,2024-01-27,CC300,Direto,manutencao,578.73,Fornecedor A,
+724,2023-04-02,CC200,Direto,mao de obra,2966.28,Fornecedor C,
+725,2024-12-31,CC100,Direto,frete,19226.35,Fornecedor C,
+726,2024-01-20,CC100,Indireto,energia,8315.17,Fornecedor A,
+727,2023-04-28,CC300,Direto,manutencao,10221.56,Fornecedor A,OP6215
+728,2023-08-28,CC100,Indireto,materia prima,9735.01,Fornecedor C,
+729,2024-10-13,CC500,Direto,mao de obra,11408.09,Fornecedor B,OP3332
+730,2024-07-22,CC400,Direto,energia,10796.96,Fornecedor A,OP1016
+731,2024-05-08,CC300,Indireto,servicos terceiros,-19444.43,Serviços LTDA,OP5110
+732,2023-10-16,CC100,Indireto,servicos terceiros,4333.81,Fornecedor B,
+733,2023-05-24,CC500,Indireto,materia prima,7966.57,Fornecedor C,
+734,2024-12-25,CC400,Indireto,servicos terceiros,18913.63,Fornecedor C,OP5029
+735,2023-01-17,CC200,Indireto,energia,9250.01,Energia SA,OP1033
+736,2024-12-14,CC400,Direto,materia prima,13486.86,FORN-XYZ,
+737,2024-11-18,CC400,Direto,frete,715.86,Energia SA,OP3022
+738,2024-12-14,CC100,Indireto,frete,7223.52,Fornecedor A,OP8580
+739,2023-10-15,CC300,Direto,manutencao,286.33,Fornecedor B,OP2474
+740,2023-02-07,CC300,Direto,energia,19604.37,FORN-XYZ,
+741,2024-08-05,CC500,Direto,servicos terceiros,7982.11,FORN-XYZ,
+742,2023-05-11,,Direto,materia prima,11804.48,Serviços LTDA,OP4734
+743,2024-11-25,CC500,Direto,servicos terceiros,560.04,Serviços LTDA,OP5143
+744,2023-02-23,CC300,Direto,manutencao,12855.23,FORN-XYZ,OP7666
+745,2024-06-13,CC100,Direto,servicos terceiros,10414.08,Energia SA,
+746,2024-02-06,CC200,Indireto,manutencao,10694.96,Fornecedor C,
+747,2023-09-13,,Direto,servicos terceiros,8534.02,Fornecedor B,OP6394
+748,2024-03-18,CC100,Direto,servicos terceiros,-12543.36,Serviços LTDA,OP6477
+749,2023-02-25,CC300,Direto,materia prima,9524.17,Serviços LTDA,
+750,2023-03-29,CC100,Indireto,materia prima,12544.44,Fornecedor A,OP7183
+751,2023-02-26,CC300,Direto,energia,1333.84,Serviços LTDA,
+752,2024-01-26,CC400,Direto,servicos terceiros,1210.22,Fornecedor A,
+753,2024-09-27,CC500,Direto,manutencao,7740.01,Fornecedor A,
+754,2023-04-16,CC100,Indireto,frete,6631.05,Serviços LTDA,
+755,2024-05-07,CC500,Direto,servicos terceiros,10227.07,FORN-XYZ,
+756,2024-03-22,CC500,Direto,materia prima,1303.77,Energia SA,OP6861
+757,2023-10-26,CC300,Direto,energia,9443.52,Fornecedor A,
+758,2023-02-25,CC400,Direto,energia,10191.45,Fornecedor C,
+759,2024-12-12,CC400,Direto,materia prima,6896.88,Serviços LTDA,OP6425
+760,2023-02-13,CC400,Indireto,manutencao,6639.52,Fornecedor B,
+761,2023-12-06,,Direto,manutencao,12516.01,Fornecedor B,
+762,2024-07-22,CC100,Direto,mao de obra,296.85,Fornecedor B,OP5760
+763,2023-02-14,CC100,Direto,servicos terceiros,11755.16,Fornecedor B,OP4241
+764,2023-12-14,CC500,Direto,energia,17719.11,Fornecedor B,
+765,2023-01-22,CC200,Direto,energia,16873.34,FORN-XYZ,OP2818
+766,2024-01-17,CC200,Direto,mao de obra,9178.45,Serviços LTDA,
+767,2023-07-14,CC200,Direto,energia,17666.19,Serviços LTDA,OP7196
+768,2023-02-17,CC500,Indireto,frete,8647.85,Serviços LTDA,OP4098
+769,2023-10-14,CC200,Direto,mao de obra,5018.72,Serviços LTDA,
+770,2023-06-21,CC500,Direto,manutencao,15840.84,FORN-XYZ,OP9342
+771,2024-01-18,CC500,Indireto,frete,9338.92,Energia SA,OP8918
+772,2024-08-20,CC100,Indireto,mao de obra,11665.62,Fornecedor B,
+773,2024-01-22,CC500,Indireto,energia,7978.41,Fornecedor B,OP7129
+774,2024-06-15,CC300,Direto,energia,15057.29,Fornecedor B,OP1674
+775,2024-01-12,CC400,Indireto,manutencao,9077.91,Fornecedor C,OP5473
+776,2023-03-19,CC300,Direto,energia,8889.6,Fornecedor A,
+777,2023-02-09,CC500,Indireto,energia,2058.34,Fornecedor B,
+778,2024-11-30,CC300,Indireto,mao de obra,6124.04,Fornecedor B,OP3258
+779,2024-02-18,CC400,Direto,mao de obra,5708.72,Serviços LTDA,OP1194
+780,2023-08-03,CC400,Direto,manutencao,4628.81,Fornecedor B,OP9451
+781,2023-07-12,CC400,Indireto,mao de obra,15859.11,Energia SA,
+782,2023-05-23,CC500,Indireto,manutencao,17073.59,Fornecedor B,
+783,2024-03-05,CC400,Indireto,servicos terceiros,16702.55,Energia SA,OP7608
+784,2023-05-23,CC200,Indireto,frete,562.47,Fornecedor C,OP7404
+785,2024-05-01,CC100,Direto,manutencao,1367.81,Fornecedor C,OP8397
+786,2023-02-02,CC500,Direto,energia,2175.83,FORN-XYZ,
+787,2023-07-30,CC200,Direto,materia prima,18235.77,Fornecedor C,
+788,2023-12-01,CC400,Indireto,materia prima,-7436.18,FORN-XYZ,
+789,2024-02-03,CC200,Direto,frete,8426.42,Fornecedor B,OP4369
+790,2024-08-11,CC300,Indireto,servicos terceiros,13329.37,Serviços LTDA,OP4325
+791,2023-03-07,CC400,Indireto,energia,248.12,Serviços LTDA,OP5044
+792,2023-04-04,CC300,Indireto,manutencao,9307.64,Energia SA,OP8476
+793,2023-06-29,CC400,Indireto,manutencao,12299.25,Fornecedor B,OP3942
+794,2024-08-05,CC100,Indireto,manutencao,18225.58,FORN-XYZ,
+795,2024-11-13,CC100,Direto,mao de obra,17662.86,Energia SA,OP4559
+796,2023-04-18,CC500,Indireto,frete,2512.49,Fornecedor C,OP7719
+797,2023-01-28,,Direto,mao de obra,4226.7,Energia SA,OP8567
+798,2023-02-08,CC100,Indireto,servicos terceiros,8046.9,Fornecedor C,
+799,2023-03-11,CC100,Indireto,servicos terceiros,14998.65,Serviços LTDA,OP4969
+800,2023-06-24,CC100,Direto,manutencao,16426.49,Serviços LTDA,

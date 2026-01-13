@@ -1,0 +1,6 @@
+produto,categoria_produto,custo_padrao_unitario
+PROD_A,Produto Acabado,25.0
+PROD_B,Produto Acabado,32.5
+PROD_C,Produto Acabado,18.7
+PROD_D,Semiacabado,12.3
+PROD_E,Semiacabado,9.8

@@ -1,0 +1,6 @@
+centro_custo,descricao,gestor,tipo
+CC100,Produção Linha A,Carlos Silva,Produtivo
+CC200,Produção Linha B,Ana Souza,Produtivo
+CC300,Manutenção,Marcos Lima,Produtivo
+CC400,Logística,Fernanda Rocha,Produtivo
+CC500,Administrativo,Juliana Alves,Administrativo
