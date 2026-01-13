@@ -63,7 +63,7 @@ Simular um cenário real de controladoria industrial para:
 ## ▶️ Como Executar o Projeto
 
 ```bash
-git clone https://github.com/seu-usuario/controladoria-industrial.git
+git clone https://github.com/mesquitaRodrigo/ETL-controladoria-industrial-python
 cd controladoria-industrial
 python -m venv venv
 source venv/bin/activate
